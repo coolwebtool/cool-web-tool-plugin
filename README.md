@@ -4,9 +4,15 @@ See where AI skips a brand, compare competitors, and fix the pages that block it
 
 This plugin connects to the hosted Cool Web Tool server at https://mcp.coolwebtool.com/mcp. Each person signs in with their own Cool Web Tool account. The plugin files contain that server URL only.
 
+## Skills
+
+- **site-audit.** Run a site audit for a URL.
+- **compare-competitors.** See where AI answers skip the brand and how competitors compare.
+- **fix-pages.** List the pages to fix, with the issue on each page.
+
 ## Use it
 
-Install Cool Web Tool, connect the server, and sign in when asked. Ask for a site audit, where AI answers skip the brand, how competitors compare, and which pages to fix. Answers come from the projects on the account you signed in with. If that account has no audit or no AI visibility scan, the tools say so.
+Install Cool Web Tool, connect the server, and sign in when asked. Then use site-audit, compare-competitors, or fix-pages. Answers come from the projects on the account you signed in with. If that account has no audit or no AI visibility scan, the tools say so.
 
 ## Data
 
