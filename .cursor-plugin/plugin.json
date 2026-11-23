@@ -1,0 +1,15 @@
+{
+  "name": "cool-web-tool",
+  "displayName": "Cool Web Tool",
+  "description": "See where AI skips a brand, compare competitors, and fix the pages that block it.",
+  "version": "0.2.0",
+  "author": {
+    "name": "Cool Web Tool",
+    "url": "https://coolwebtool.com"
+  },
+  "homepage": "https://coolwebtool.com",
+  "repository": "https://github.com/coolwebtool/cool-web-tool-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": ["seo", "ai-visibility", "site-audit"]
+}
