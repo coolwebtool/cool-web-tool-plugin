@@ -2,24 +2,19 @@
 
 See where AI skips a brand, compare competitors, and fix the pages that block it.
 
-This repository is the Cursor plugin. The MCP server is hosted at [https://mcp.coolwebtool.com/mcp](https://mcp.coolwebtool.com/mcp).
+This plugin connects to the hosted Cool Web Tool server at https://mcp.coolwebtool.com/mcp. Each person signs in with their own Cool Web Tool account. The plugin files contain that server URL only.
 
-## Install
+## Use it
 
-Install **Cool Web Tool** from the Cursor Marketplace. When Cursor asks you to sign in, use your own Cool Web Tool account. Each person connects their own account. The plugin configuration contains the server URL only.
+Install Cool Web Tool, connect the server, and sign in when asked. Ask for a site audit, where AI answers skip the brand, how competitors compare, and which pages to fix. Answers come from the projects on the account you signed in with. If that account has no audit or no AI visibility scan, the tools say so.
 
-## Use
+## Data
 
-After you sign in, ask Cursor to audit a site, compare it with competitors, and list the pages to fix. Results come from the projects on the Cool Web Tool account you signed in with.
+The plugin sends the site, project, and question you ask to your Cool Web Tool account through mcp.coolwebtool.com. It stores nothing in the plugin itself. Sign-in uses your Cool Web Tool account.
 
-## Review
+Privacy: https://coolwebtool.com/privacy
 
-Create an account at [https://coolwebtool.com](https://coolwebtool.com), install the plugin, and approve access when Cursor opens the sign-in page.
-
-## Policies
-
-- Privacy: [https://coolwebtool.com/privacy](https://coolwebtool.com/privacy)
-- Terms: [https://coolwebtool.com/terms](https://coolwebtool.com/terms)
+Terms: https://coolwebtool.com/terms
 
 ## License
 
